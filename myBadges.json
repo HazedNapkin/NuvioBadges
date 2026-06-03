@@ -531,32 +531,6 @@
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ge",
-      "id": "s-h265",
-      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/h265.png",
-      "isEnabled": false,
-      "name": "H265 HEVC",
-      "pattern": "(?i)(?:x265|h[._-]?265|hevc)",
-      "tagColor": "#0B0B0B",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ge",
-      "id": "s-h264",
-      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/h264.png",
-      "isEnabled": false,
-      "name": "H264 AVC",
-      "pattern": "(?i)(?:x264|h[._-]?264|avc)",
-      "tagColor": "#0B0B0B",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
     }
   ]
 }
