@@ -52,7 +52,7 @@
   ],
   "filters": [
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gq",
       "id": "q-r",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/remux_logoV2.png",
@@ -60,12 +60,12 @@
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gq",
       "id": "q-b",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/bluray_logo.png",
@@ -73,12 +73,12 @@
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gq",
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/mono-webdl.png",
@@ -86,12 +86,12 @@
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|webrip|web-rip)\\b",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-seadex",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/mono-SeaDex.png",
@@ -99,12 +99,12 @@
       "name": "SeaDex",
       "pattern": "(?i)(?:\\bseadex\\b|ᴀʟᴛ\\s+ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ\\s+ʀᴇʟᴇᴀsᴇ|alt\\s+release|best\\s+release)",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gr",
       "id": "r-4k",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/4k.png",
@@ -112,12 +112,12 @@
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gr",
       "id": "r-1080",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/1080p.png",
@@ -125,12 +125,12 @@
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gr",
       "id": "r-720",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/720p.png",
@@ -138,12 +138,12 @@
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dtsx",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/dtsx.png",
@@ -151,12 +151,12 @@
       "name": "DTS:X",
       "pattern": "(?i)\\bdts[-_.: ]?x\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dtsma",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/dtshdma.png",
@@ -164,12 +164,12 @@
       "name": "DTS-HD MA",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dtshd",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/dtshd.png",
@@ -177,12 +177,12 @@
       "name": "DTS-HD",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dts",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/dts.png",
@@ -190,12 +190,12 @@
       "name": "DTS",
       "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-hdr10p",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/HDR10Plus.png",
@@ -203,12 +203,12 @@
       "name": "HDR10+",
       "pattern": "(?i)^(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-hdr10",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/HDR10.png",
@@ -216,12 +216,12 @@
       "name": "HDR10",
       "pattern": "(?i)^(?=.*hdr[\\s._-]?10)(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-hdr",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/HDR.png",
@@ -229,12 +229,12 @@
       "name": "HDR",
       "pattern": "(?i)^(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-sdr",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/SDR.png",
@@ -242,12 +242,12 @@
       "name": "SDR",
       "pattern": "(?i)\\b(?:sdr|hdtv|web[-_. ]rip|webrip|dvdrip|brrip|bdrip|xvid|divx|h264|avc)\\b",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-imax-e",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/IMAX-enhanced.png",
@@ -255,12 +255,12 @@
       "name": "IMAX Enhanced",
       "pattern": "(?i)\\bimax[\\s._-]?enhanced\\b",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "v-imax",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/IMAX.png",
@@ -268,12 +268,12 @@
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
       "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-at-dv",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/atmos-vision.png",
@@ -281,12 +281,12 @@
       "name": "Atmos+DV",
       "pattern": "(?i)^(?=.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-at",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/atmos.png",
@@ -294,12 +294,12 @@
       "name": "Atmos",
       "pattern": "(?i)^(?=.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-th-dv",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/truehd-vision.png",
@@ -307,12 +307,12 @@
       "name": "TrueHD+DV",
       "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-th",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/truehd.png",
@@ -320,12 +320,12 @@
       "name": "TrueHD",
       "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/vision.png",
@@ -333,12 +333,12 @@
       "name": "DV",
       "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\batmos\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dp",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/digitalplus.png",
@@ -346,12 +346,12 @@
       "name": "DD+",
       "pattern": "(?i)^(?=.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dd-dv",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/digital-vision.png",
@@ -359,12 +359,12 @@
       "name": "DD+DV",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "ga",
       "id": "a-dd",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/digital.png",
@@ -372,12 +372,12 @@
       "name": "DD",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gc",
       "id": "ch-71",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/7dot1.png",
@@ -385,12 +385,12 @@
       "name": "7.1",
       "pattern": "[^0-9][7-8][. ][01](?![0-9])",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gc",
       "id": "ch-51",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/5dot1.png",
@@ -398,12 +398,12 @@
       "name": "5.1",
       "pattern": "^(?=.*[^0-9]5[. ][01](?![0-9]))(?!.*[^0-9][7-8][. ][01](?![0-9]))",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-nflx",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/Netflix.png",
@@ -411,12 +411,12 @@
       "name": "NETFLIX",
       "pattern": "(?i)\\b(nflx|nf|netflix)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-amzn",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/amazon%20prime.png",
@@ -424,12 +424,12 @@
       "name": "PRIME VIDEO",
       "pattern": "(?i)\\b(amzn|amazon|prime)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-atvp",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/atv%2B.png",
@@ -437,12 +437,12 @@
       "name": "APPLE TV+",
       "pattern": "(?i)\\b(atvp|appletv)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-dsnp",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/d%2B.png",
@@ -450,12 +450,12 @@
       "name": "DISNEY+",
       "pattern": "(?i)\\b(dsnp|dsny|disney|disney\\+)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-hmax",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/hmax.png",
@@ -463,12 +463,12 @@
       "name": "MAX",
       "pattern": "(?i)\\b(hmax|hbomax|hbo|max)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-hulu",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/hulu.png",
@@ -476,12 +476,12 @@
       "name": "HULU",
       "pattern": "(?i)\\bhulu\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-pcok",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/peacock.png",
@@ -489,12 +489,12 @@
       "name": "PEACOCK",
       "pattern": "(?i)\\b(pcok|peac|peacock)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-pamp",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/p%2B.png",
@@ -502,12 +502,12 @@
       "name": "PARAMOUNT+",
       "pattern": "(?i)\\b(pmtp|pamp|paramount)\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-crave",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/crave.png",
@@ -515,12 +515,12 @@
       "name": "CRAVE",
       "pattern": "(?i)\\bcrave\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFFFFF",
       "groupId": "gs",
       "id": "s-croll",
       "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/crunchyroll.png",
@@ -528,7 +528,7 @@
       "name": "CRUNCHY ROLL",
       "pattern": "(?i)\\bcrunch\\b",
       "tagColor": "#1a1a1a",
-      "tagStyle": "filled",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     }
