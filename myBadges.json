@@ -55,7 +55,7 @@
       "borderColor": "#00000000",
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/remux_logo.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/remux_logoV2.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
