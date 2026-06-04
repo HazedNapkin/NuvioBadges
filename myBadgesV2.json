@@ -10,13 +10,6 @@
     {
       "borderColor": "#FF858283",
       "color": "#000000",
-      "id": "gr",
-      "isExpanded": true,
-      "name": "Resolution"
-    },
-    {
-      "borderColor": "#FF858283",
-      "color": "#000000",
       "id": "gv",
       "isExpanded": true,
       "name": "Visual"
@@ -24,16 +17,16 @@
     {
       "borderColor": "#FF858283",
       "color": "#000000",
-      "id": "ga",
+      "id": "gr",
       "isExpanded": true,
-      "name": "Audio"
+      "name": "Resolution"
     },
     {
       "borderColor": "#FF858283",
       "color": "#000000",
-      "id": "ge",
+      "id": "ga",
       "isExpanded": true,
-      "name": "Encoder"
+      "name": "Audio"
     },
     {
       "borderColor": "#FF858283",
@@ -48,6 +41,13 @@
       "id": "gs",
       "isExpanded": true,
       "name": "Streaming"
+    },
+    {
+      "borderColor": "#FF858283",
+      "color": "#000000",
+      "id": "ge",
+      "isExpanded": true,
+      "name": "Encoder"
     }
   ],
   "filters": [
@@ -189,7 +189,7 @@
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*\\b(?:blu[-_. ]?ray|b[rd][-_. ]?rip)\\b)(?!.*\\bremux\\b)",
-      "tagColor": "#1A1A1A",
+      "tagColor": "",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
@@ -201,7 +201,7 @@
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/mono-webdl.png",
       "isEnabled": true,
       "name": "WEB-DL",
-      "pattern": "(?i)^(?!.*\\b(?:nflx|nf|netflix|amzn|amazon|prime|atvp|appletv|dsnp|dsny|disney|disney\\\\+|hmax|hbomax|hbo|max|hulu|pcok|peac|peacock|pmtp|pamp|paramount|crave|crunch)\\b).*\\bweb[-_. ]?dl\\b",
+      "pattern": "(?i)\\bweb[-_. ]?dl\\b",
       "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
@@ -214,7 +214,7 @@
       "imageURL": "",
       "isEnabled": true,
       "name": "WEBRip",
-      "pattern": "(?i)^(?!.*\\b(?:nflx|nf|netflix|amzn|amazon|prime|atvp|appletv|dsnp|dsny|disney|disney\\\\+|hmax|hbomax|hbo|max|hulu|pcok|peac|peacock|pmtp|pamp|paramount|crave|crunch)\\b).*\\bweb[-_. ]?rip\\b",
+      "pattern": "(?i)\\bweb[-_. ]?rip\\b",
       "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
@@ -445,7 +445,7 @@
       "borderColor": "#FF858283",
       "groupId": "ga",
       "id": "a-at",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/atmos.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/atmos.png",
       "isEnabled": true,
       "name": "Atmos",
       "pattern": "(?i)\\batmos\\b",
@@ -458,7 +458,7 @@
       "borderColor": "#FF858283",
       "groupId": "ga",
       "id": "a-th",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/truehd.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/truehd.png",
       "isEnabled": true,
       "name": "TrueHD",
       "pattern": "(?i)\\btrue[\\s._-]?hd\\b",
@@ -471,7 +471,7 @@
       "borderColor": "#FF858283",
       "groupId": "gv",
       "id": "a-dv",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/vision.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/vision.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
@@ -484,7 +484,7 @@
       "borderColor": "#FF858283",
       "groupId": "ga",
       "id": "a-dp",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/digitalplus.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/digitalplus.png",
       "isEnabled": true,
       "name": "DD+",
       "pattern": "(?i)^(?=.*\\b(?:ddp|dd\\+|eac-?3|e-?ac-?3)\\b)(?!.*\\btrue[\\s._-]?hd\\b)",
@@ -497,7 +497,7 @@
       "borderColor": "#FF858283",
       "groupId": "ga",
       "id": "a-dd",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/digital.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/digital.png",
       "isEnabled": true,
       "name": "DD",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|ac-?3)\\b)(?!.*\\b(?:ddp|dd\\+|eac-?3|e-?ac-?3)\\b)(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)",
@@ -510,7 +510,7 @@
       "borderColor": "#FF858283",
       "groupId": "gc",
       "id": "ch-71",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/7dot1.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/7dot1.png",
       "isEnabled": true,
       "name": "7.1",
       "pattern": "(?i)(?:^|[^0-9])[7-8][. ][01](?![0-9])",
@@ -523,7 +523,7 @@
       "borderColor": "#FF858283",
       "groupId": "gc",
       "id": "ch-51",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/5dot1.png",
+      "imageURL": "https://raw.githubusercontent.com/HazedNapkin/NuvioBadges/main/images/5dot1.png",
       "isEnabled": true,
       "name": "5.1",
       "pattern": "(?i)^(?=.*(?:^|[^0-9])5[. ][01](?![0-9]))(?!.*(?:^|[^0-9])[7-8][. ][01](?![0-9]))",
