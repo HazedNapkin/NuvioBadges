@@ -189,7 +189,7 @@
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*\\b(?:blu[-_. ]?ray|b[rd][-_. ]?rip)\\b)(?!.*\\bremux\\b)",
-      "tagColor": "",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
