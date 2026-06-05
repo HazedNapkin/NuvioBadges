@@ -260,6 +260,19 @@
       "type": "filter"
     },
     {
+      "groupId": "gq",
+      "id": "q-cam",
+      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-CAM.svg",
+      "isEnabled": true,
+      "name": "CAM",
+      "pattern": "(?i)^(?=.*(?:\\bcam(?:rip)?\\b|\\bhdcam\\b|\\bts\\b|\\btelesync\\b|\\bhdts\\b|\\btc\\b|\\btelecine\\b|(?<!dvd)(?<!dvd[._-])\\bscr(?:eener)?\\b))(?!.*\\bdvd[\\s._-]?scr)",
+      "tagColor": "#1A1A1A",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#FFFFFF"
+    },
+    {
       "borderColor": "#FF858283",
       "groupId": "gr",
       "id": "r-4k",
