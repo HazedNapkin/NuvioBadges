@@ -270,7 +270,7 @@
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#FF858283"
     },
     {
       "borderColor": "#FF858283",
@@ -322,7 +322,7 @@
       "tagStyle": "filled and bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#FF858283"
     },
     {
       "groupId": "gr",
@@ -335,7 +335,7 @@
       "tagStyle": "filled and bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#FF858283"
     },
     {
       "groupId": "gr",
@@ -348,7 +348,7 @@
       "tagStyle": "filled and bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#FF858283"
     },
     {
       "groupId": "gr",
@@ -361,7 +361,7 @@
       "tagStyle": "filled and bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#FF858283"
     },
     {
       "borderColor": "#FF858283",
