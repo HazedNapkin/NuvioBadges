@@ -596,32 +596,6 @@
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
-    },
-    {
-      "borderColor": "#FF858283",
-      "groupId": "ge",
-      "id": "s-h265",
-      "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/h265.png",
-      "isEnabled": true,
-      "name": "H265 HEVC",
-      "pattern": "(?i)\\b(?:x265|h[._-]?265|hevc)\\b",
-      "tagColor": "#0B0B0B",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#FF858283",
-      "groupId": "ge",
-      "id": "s-h264",
-      "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/h264.png",
-      "isEnabled": true,
-      "name": "H264 AVC",
-      "pattern": "(?i)\\b(?:x264|h[._-]?264|avc)\\b",
-      "tagColor": "#0B0B0B",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
     }
   ]
 }
