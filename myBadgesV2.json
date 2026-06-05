@@ -397,7 +397,7 @@
       "isEnabled": true,
       "name": "DTS:X",
       "pattern": "(?i)\\bdts[-_.: ]?x\\b",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -410,7 +410,7 @@
       "isEnabled": true,
       "name": "DTS-HD MA",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -423,7 +423,7 @@
       "isEnabled": true,
       "name": "DTS-HD",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -436,7 +436,7 @@
       "isEnabled": true,
       "name": "DTS",
       "pattern": "(?i)^(?=.*\\bdts\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -449,7 +449,7 @@
       "isEnabled": true,
       "name": "Atmos",
       "pattern": "(?i)\\batmos\\b",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -462,7 +462,7 @@
       "isEnabled": true,
       "name": "TrueHD",
       "pattern": "(?i)\\btrue[\\s._-]?hd\\b",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -475,7 +475,7 @@
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -488,7 +488,7 @@
       "isEnabled": true,
       "name": "DD+",
       "pattern": "(?i)^(?=.*\\b(?:ddp|dd\\+|eac-?3|e-?ac-?3)\\b)(?!.*\\btrue[\\s._-]?hd\\b)",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -501,7 +501,7 @@
       "isEnabled": true,
       "name": "DD",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|ac-?3)\\b)(?!.*\\b(?:ddp|dd\\+|eac-?3|e-?ac-?3)\\b)(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -514,7 +514,7 @@
       "isEnabled": true,
       "name": "7.1",
       "pattern": "(?i)(?:^|[^0-9])[7-8][. ][01](?![0-9])",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
@@ -527,7 +527,7 @@
       "isEnabled": true,
       "name": "5.1",
       "pattern": "(?i)^(?=.*(?:^|[^0-9])5[. ][01](?![0-9]))(?!.*(?:^|[^0-9])[7-8][. ][01](?![0-9]))",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#1A1A1A",
       "tagStyle": "filled and bordered",
       "textColor": "#000000",
       "type": "filter"
