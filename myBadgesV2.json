@@ -312,6 +312,58 @@
       "type": "filter"
     },
     {
+      "groupId": "gr",
+      "id": "r-576",
+      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-576p.svg",
+      "isEnabled": true,
+      "name": "576p",
+      "pattern": "(?i)\\b576[pi]?\\b",
+      "tagColor": "#1A1A1A",
+      "tagStyle": "filled and bordered",
+      "textColor": "#888d93",
+      "type": "filter",
+      "borderColor": "#FFFFFF"
+    },
+    {
+      "groupId": "gr",
+      "id": "r-480",
+      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-480p.svg",
+      "isEnabled": true,
+      "name": "480p",
+      "pattern": "(?i)\\b480[pi]?\\b",
+      "tagColor": "#1A1A1A",
+      "tagStyle": "filled and bordered",
+      "textColor": "#888d93",
+      "type": "filter",
+      "borderColor": "#FFFFFF"
+    },
+    {
+      "groupId": "gr",
+      "id": "r-360",
+      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-360p.svg",
+      "isEnabled": true,
+      "name": "360p",
+      "pattern": "(?i)\\b360[pi]?\\b",
+      "tagColor": "#1A1A1A",
+      "tagStyle": "filled and bordered",
+      "textColor": "#888d93",
+      "type": "filter",
+      "borderColor": "#FFFFFF"
+    },
+    {
+      "groupId": "gr",
+      "id": "r-240",
+      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-240p.svg",
+      "isEnabled": true,
+      "name": "240p",
+      "pattern": "(?i)\\b240[pi]?\\b",
+      "tagColor": "#1A1A1A",
+      "tagStyle": "filled and bordered",
+      "textColor": "#888d93",
+      "type": "filter",
+      "borderColor": "#FFFFFF"
+    },
+    {
       "borderColor": "#FF858283",
       "groupId": "gv",
       "id": "v-seadex",
